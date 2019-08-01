@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "469484068362",
+    "firebase_url": "https://phoneauthentication-33aca.firebaseio.com",
+    "project_id": "phoneauthentication-33aca",
+    "storage_bucket": "phoneauthentication-33aca.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:469484068362:android:77934a463a71a629",
+        "android_client_info": {
+          "package_name": "com.kimbrian.phoneauthentication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "469484068362-it25b3nlihcgata3862igk372b97i1bt.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.kimbrian.phoneauthentication",
+            "certificate_hash": "77d1565e214de64e42de1ffd90353a5e61f190f1"
+          }
+        },
+        {
+          "client_id": "469484068362-rnilna2eg9hvgj7345tgk2254r22dh73.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCBxLLx5j9ABzzzQiKaOoBK_OJBRUSAMOM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "469484068362-rnilna2eg9hvgj7345tgk2254r22dh73.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
